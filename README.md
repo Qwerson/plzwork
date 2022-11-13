@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://qwerson.github.io/plzwork/
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vT07FvCe99Kh_1fjMoZ3vFWrN9cZ_14SvKThTb8ERlxcfyxLdG626h3uYeA8567UIeq7zLGf3MHqR-0/pubhtml
+- Google Sheets template https://docs.google.com/spreadsheets/d/1CYzh7tKOaiGrhnzN65Fgi61SvGHMbcNNDtGVEL0WCtk/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
